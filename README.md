@@ -1,17 +1,9 @@
-# Abdallah Mohammed
-
-Hey there, I'm Boda, a 21 year old software developer from the Egypt. I love making Discord bots with JavaScript, whilst sometimes bit of web development.
-
-### ![Boda](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F411&width=435&lines=Hi+there+I'm+Abdallah+Mohamed+%F0%9F%91%8B)
-<!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
-
----
 <div align="center">
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1139143053387509840?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20boda)](https://discord.com/users/1139143053387509840)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1232443835766804575?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20_Enderman_xD)](https://discord.com/users/1232443835766804575)
 <p>
-   <a href="https://discord.com/channels/@me/1139143053387509840"> <img src="https://discord.c99.nl/widget/theme-2/1139143053387509840.png" alt="contact mee"></a>
+   <a href="https://discord.com/channels/@me/1232443835766804575"> <img src="https://discord.c99.nl/widget/theme-2/1232443835766804575.png" alt="contact mee"></a>
 <p>
 
 </div>
