@@ -1,5 +1,7 @@
 # _Enderman_xD
-**My Portfolio: https://meezo.xyz/portfolio/_Enderman_xD**
+- **My Portfolio: https://meezo.xyz/portfolio/_Enderman_xD** *Coming Soon*
+- **MeezO Studio: https://discord.gg/meezo** 
+- **MeezO Community: https://discord.gg/gk9FcnFfwJ** *Coming Soon*
 
 ---
 
